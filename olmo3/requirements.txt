@@ -1,0 +1,5 @@
+ai2-olmo-core @ git+https://github.com/allenai/OLMo-core.git@v2.5.0
+gpt2 @ git+https://github.com/Magronox/GPT2@9284500
+numpy==2.5.1
+optuna==4.9.0
+torch==2.7.1

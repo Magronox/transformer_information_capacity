@@ -1,0 +1,6 @@
+gpt2 @ git+https://github.com/Magronox/GPT2@9284500
+torch==2.7.1
+optuna==4.7.0
+numpy==2.0.2
+scipy==1.13.1
+matplotlib==3.9.4
